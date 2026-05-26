@@ -69,3 +69,4 @@ jobs:
             NEXT_PUBLIC_LICENSE_CONSENT=agree
             CALCOM_TELEMETRY_DISABLED=1
             MAX_OLD_SPACE_SIZE=4096
+# trigger
